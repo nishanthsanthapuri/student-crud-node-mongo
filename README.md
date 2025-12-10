@@ -232,7 +232,7 @@ Example: Adding a student
 
 🚀 Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/YOUR-USERNAME/student-crud-node-mongo.git
+git clone https://github.com/nishanthsanthapuri/student-crud-node-mongo.git
 cd student-crud-node-mongo
 
 2️⃣ Install Dependencies
